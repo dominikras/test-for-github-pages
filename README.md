@@ -1,4 +1,4 @@
-# How to decome web developer, devops and server admin in 3 minutes
+# How to decome a web developer, devops engineer and server admin - all in 3 minutes
 
 ## Welcome to GitHub Pages
 
